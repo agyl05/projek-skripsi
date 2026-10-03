@@ -4,6 +4,10 @@
 projek ini merupakan implementasi Deep Learning untuk melakukan klasifikasi citra daun cabai berdasarkan kondisi visual daun menggunakan arsitektur ConvNeXt V2 berbasis Masked Autoencoders (MAE). projek ini dibuat sebagai bagian dari penelitian skripsi dengan tujuan mengklasifikasikan citra daun cabai ke dalam beberapa kategori berdasarkan karakteristik visual yang terdapat pada citra.
 # Kategori Klasifikasi:
 Leaf Curl, Whitefly, Yellowish, Leaf Spot, Healthy.
+## Dataset
+- Sumber: Kaggle (https://www.kaggle.com/datasets/crewsat/chili-leaf-disease-image-dataset)(https://www.kaggle.com/datasets/alinedobrovsky/plant-disease-classification-merged-dataset)(https://www.kaggle.com/datasets/ratnasarii/penyakitdauncabai)(https://www.kaggle.com/datasets/aagusw90/dauncabai)
+- Total: 2.100 gambar, 5 kelas
+- Pembagian: 80:10:10 (train/validation/test), stratified
 # metode yang digunakan:
 1. Pengumpulan Dataset
 2. Preprocessing citra
