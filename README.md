@@ -30,4 +30,8 @@ Model dilatih dengan augmentasi data dan dievaluasi pada 210 gambar uji
 - Recall (macro) 95,71%
 - F1-Score (macro) 95,71%
 - ROC-AUC (macro) 0,9976
+### Confusion Matrix
+![Confusion Matrix](images/confusion_matrix.png)
 
+### Interpretasi Grad-CAM
+![Grad-CAM](images/gradcam.png)
