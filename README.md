@@ -1,5 +1,5 @@
 # projek-skripsi
-"Klasifikasi Hama dan Penyakit Tanaman Daun Cabai Menggunakan ConvNeXt V2 Berbasis Masked Autoencoders"
+"klasifikasi penyakit dan hama daun cabai menggunakan arsitektur convnext v2 berbasis masked autoencoders"
 # Deskripsi projek:
 projek ini merupakan implementasi Deep Learning untuk melakukan klasifikasi citra daun cabai berdasarkan kondisi visual daun menggunakan arsitektur ConvNeXt V2 berbasis Masked Autoencoders (MAE). projek ini dibuat sebagai bagian dari penelitian skripsi dengan tujuan mengklasifikasikan citra daun cabai ke dalam beberapa kategori berdasarkan karakteristik visual yang terdapat pada citra.
 # Kategori Klasifikasi:
